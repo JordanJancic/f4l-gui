@@ -1,0 +1,2 @@
+﻿sender_email,receiver_emails,app_password,url,xpath_login_button,login_email,login_password,login_email_textbox,login_password_textbox,select_day_button,yes_button
+null,null,null,https://myfit4less.gymmanager.com/portal/login.asp,"//*[@id=""loginButton""]",null,null,"//*[@id=""emailaddress""]","//*[@id=""password""]","//*[@id=""btn_date_select""]","//*[@id=""dialog_book_yes""]"
